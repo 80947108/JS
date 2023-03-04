@@ -1383,6 +1383,50 @@
             "ext": "2000"
         },
         {
+            "key": "drpy_js_慢大浪",
+            "name": "影视 | 慢大浪[js]",
+            "type": 3,
+            "api": "https://raw.iqiq.io/80947108/JS/main/lib/drpy2.min.js",
+            "ext": "https://raw.iqiq.io/80947108/JS/main/js/慢大浪.js"
+        },
+        {
+            "key": "drpy_js_看看屋",
+            "name": "影视 | 看看屋[js]",
+            "type": 3,
+            "api": "https://raw.iqiq.io/80947108/JS/main/lib/drpy2.min.js",
+            "ext": "https://raw.iqiq.io/80947108/JS/main/js/看看屋.js"
+        },
+        {
+            "key": "drpy_js_稀饭影视",
+            "name": "影视 | 稀饭影视[js]",
+            "type": 3,
+            "api": "https://raw.iqiq.io/80947108/JS/main/lib/drpy2.min.js",
+            "ext": "https://raw.iqiq.io/80947108/JS/main/js/稀饭影视.js"
+        },
+        {
+            "key": "drpy_js_冷曦影视",
+            "name": "影视 | 冷曦影视[js]",
+            "type": 3,
+            "api": "https://raw.iqiq.io/80947108/JS/main/lib/drpy2.min.js",
+            "ext": "https://raw.iqiq.io/80947108/JS/main/js/冷曦影视.js"
+        },
+        {
+            "key": "drpy_js_六月听书",
+            "name": "听书 | 六月听书[js]",
+            "type": 3,
+            "api": "https://raw.iqiq.io/80947108/JS/main/lib/drpy2.min.js",
+            "ext": "https://raw.iqiq.io/80947108/JS/main/js/六月听书.js",
+            "playerType": "2"
+        },
+        {
+            "key": "drpy_js_博看听书",
+            "name": "听书 | 博看听书[js]",
+            "type": 3,
+            "api": "https://raw.iqiq.io/80947108/JS/main/lib/drpy2.min.js",
+            "ext": "https://raw.iqiq.io/80947108/JS/main/js/博看听书.js",
+            "playerType": "2"
+        },
+        {
             "key": "push_agent",
             "name": "阿里 | 推送",
             "type": 3,
@@ -1392,9 +1436,9 @@
     ],
     "lives": [
         {
-            "name": "太阳",
+            "name": "飞哥",
             "type": 0,
-            "url": "https://raw.iqiq.io/80947108/JS/main/zb.txt"
+            "url": "https://raw.iqiq.io/80947108/jiekou/main/live.txt"
         }
     ],
     "rules": [
@@ -1499,6 +1543,21 @@
         },
         {
             "name": "猫爪1",
+            "type": 0,
+            "url": "https://jx.zhanlangbu.com/?url="
+        },
+        {
+            "name": "777",
+            "type": 0,
+            "url": "https://jx.777jiexi.com/player/?url="
+        },
+        {
+            "name": "杰森",
+            "type": 0,
+            "url": "https://jx.jsonplayer.com/player/?url="
+        },
+        {
+            "name": "战狼",
             "type": 0,
             "url": "https://jx.zhanlangbu.com/?url="
         },
