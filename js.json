@@ -1709,8 +1709,11 @@
     "lives": [
         {
             "name": "太阳",
-            "type": 0,
+            "type": 1,
             "url": "http://111.67.196.181/zhibo.txt"
+            "playerType": 1,
+            "epg" : "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo" : "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
     "rules": [
