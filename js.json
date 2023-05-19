@@ -1810,6 +1810,16 @@
             "url": "https://jx.777jiexi.com/player/?url="
         },
         {
+            "name": "519",
+            "type": 1,
+            "url": "http://119.181.100.243:48/jiexi/yun.php/?url="
+        },
+        {
+            "name": "5191",
+            "type": 1,
+            "url": "http://119.181.100.243:48/jiexi/sj.php/?url="
+        },
+        {
             "name": "杰森",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url="
