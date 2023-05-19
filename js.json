@@ -1692,6 +1692,13 @@
             "ext": "https://raw.iqiq.io/80947108/JS/main/js/子子影视.js"
         },
         {
+            "key": "drpy_js_多米[V2]",
+            "name": "影视 | 多米[js]",
+            "type": 3,
+            "api": "https://raw.iqiq.io/80947108/JS/main/lib/drpy2.min.js",
+            "ext": "https://raw.iqiq.io/80947108/JS/main/js/多米[V2].js"
+        },
+        {
             "key": "Live",
             "name": "影视直播",
             "type": 3,
