@@ -1977,5 +1977,8 @@
         "mgtv",
         "wasu"
     ],
-    "wallpaper": "http://www.kf666888.cn/api/tvbox/img"
+    "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+    "msg": "温馨提示  您正在使用『飞哥』线路观看视频，本线路完全免费",
+    "date": "20230604000000",
+    "duration": 30
 }
