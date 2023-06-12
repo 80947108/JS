@@ -1722,9 +1722,12 @@
     ],
     "lives": [
         {
-            "name": "太阳",
+            "name": "飞哥",
             "type": 0,
-            "url": "http://111.67.196.181/zhibo.txt"
+            "url": "http://w.g9.pub:66/f/Xn3tO/live.txt",
+            "playerType": 1,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
     "rules": [
